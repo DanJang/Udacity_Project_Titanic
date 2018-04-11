@@ -1,3 +1,3 @@
-Title: The characteristics of survived people in Tatanic
-Date: 2017-10-12
-Category: Udacity Project
+# The characteristics of survived people in Tatanic
+- Investigation on the Titanic passengers data provided by kaggle.com
+- Python - data processing, visualization, statistics 
